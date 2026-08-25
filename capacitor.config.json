@@ -1,9 +1,0 @@
-{
-  "appId": "com.zapk.app",
-  "appName": "ZAPK App",
-  "webDir": "www",
-  "server": {
-    "url": "hhtps://lisotech.github.io",
-    "cleartext": true
-  }
-}
